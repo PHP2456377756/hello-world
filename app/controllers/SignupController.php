@@ -7,6 +7,7 @@ class SignupController extends Controller
 
 	public function indexAction()
 	{
+	    echo "asdf";
 
 	}
 

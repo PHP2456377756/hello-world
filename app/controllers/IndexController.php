@@ -9,6 +9,7 @@ class IndexController extends Controller
 	{
         echo "hello world";
 		echo "abc";
+		echo "asdf";
 	}
 
 }
